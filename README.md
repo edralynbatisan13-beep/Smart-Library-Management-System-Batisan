@@ -1,4 +1,4 @@
-# Smart-Library-Management-System
+# Smart-Library-Management-System-Batisan
 Configuration Management Laboratory for the Smart Library Management System
 Smart Library Management System (SLMS)
 Project Description
