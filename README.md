@@ -14,3 +14,9 @@ Development Team
 Student Name: Edralyn Batisan
 Course: BSIT-BA
 Section: 2C
+Features
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
+
