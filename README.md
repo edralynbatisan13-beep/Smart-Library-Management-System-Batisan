@@ -23,3 +23,11 @@ Features
 - Update Member Information
 - Delete Member Record
 - Search Member
+
+Project Modules
+
+- Book Catalog
+- Inventory Management
+- Reports
+- User Accounts
+
