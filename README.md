@@ -35,4 +35,4 @@ Project Modules
 - User Accounts
 
 Book Reservation Module
-This module allows users to reserve books online.
+This module allows users to reserve books online
